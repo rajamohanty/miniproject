@@ -3,11 +3,8 @@
 #### Pankaj Suresh Kumar, Kalpesh Mulye, Raja Mohanty
 
 
-
-
-
-
 ### Import Data
+
 
 
 
@@ -53,14 +50,6 @@
 
 
 
-### K - means
-
-![alt text](https://github.com/kalpesh22-21/miniproject/blob/main/images/Mod_eval01.png)
-![alt text](https://github.com/kalpesh22-21/miniproject/blob/main/images/Mod_eval02.png)
-###
-
-
-
 ##Model Evaluation 
 
 ### Logisitic Regression
@@ -78,3 +67,26 @@
 ###Gradient Boosted Trees
 
 ![alt text](https://github.com/kalpesh22-21/miniproject/blob/main/images/Model_Eval4.png)
+
+
+
+
+
+### K - means
+
+![alt text](https://github.com/kalpesh22-21/miniproject/blob/main/images/Mod_eval01.png)
+![alt text](https://github.com/kalpesh22-21/miniproject/blob/main/images/Mod_eval02.png)
+###
+
+
+
+
+
+### H3
+
+
+
+### H3
+
+
+### H3
